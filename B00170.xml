@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of one Susan Higges, dwelling in Risborrow a towne in Buckinghamshire, and how shee lived 20. yeeres, by robbing on the high-wayes, yet unsuspected of all that knew her; till at last, comming to Messeldon, there robbing a woman; which woman knew her and called her by her name: now when she saw she was betrayed, she killed her, and standing by her while she gave three groanes, she spat three drops of blood in her face, which never could be washt out; by which whee was knowne and executed for the aforesaid murder at the assises in Lent at Brickhill. To the tune of, The worthy London prentice.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00170</idno>
+            <idno type="STC">STC 13441</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[424]</idno>
+            <idno type="EEBO-CITATION">99891916</idno>
+            <idno type="PROQUEST">ocm99891916</idno>
+            <idno type="VID">183141</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00170)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183141)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[225])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of one Susan Higges, dwelling in Risborrow a towne in Buckinghamshire, and how shee lived 20. yeeres, by robbing on the high-wayes, yet unsuspected of all that knew her; till at last, comming to Messeldon, there robbing a woman; which woman knew her and called her by her name: now when she saw she was betrayed, she killed her, and standing by her while she gave three groanes, she spat three drops of blood in her face, which never could be washt out; by which whee was knowne and executed for the aforesaid murder at the assises in Lent at Brickhill. To the tune of, The worthy London prentice.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>For F.C. dwelling in the Old-Baily.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[ca. 1640?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "To mourne for my offences ..."</note>
+                  <note>An edition of: The sorrowfull complaint of Susan Higges.</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>In two parts, separated for mounting; each with woodcut illustration at head.</note>
+                  <note>"17 stanzas, the extra one added before the last stanza"--STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Higges, Susan --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="424" facs="tcp:183141:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <argument>
+               <p>A true Relation of one <hi>Suſan Higges,</hi> dwelling in <hi>Risborrow</hi> a Towne in <hi>Buckinghamſhire,</hi> and how ſhee lived 20. yeeres, by robbing on the High-wayes, yet unſuſpected of all that knew her; till at laſt, comming to <hi>Meſseldon,</hi> there robbing a woman; which woman knew her and called her by her name: now when ſhe ſaw ſhe was betrayed, ſhe killed her, and ſtanding by her while ſhe gave three groanes, ſhe ſpat three drops of blood in her face, which never could be waſht out; by which ſhee was knowne and executed for the aforeſaid murder at the Aſſiſes in Lent at <hi>Brickhill.</hi>
+               </p>
+            </argument>
+            <opener>To the tune of, <hi>The worthy London Prentice.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>TO mourne for my offences,</l>
+                  <l>and former paſſed ſinnes,</l>
+                  <l>This ſad and dolefull ſtory,</l>
+                  <l>my heavie heart begins:</l>
+                  <l>Moſt wickedly I ſpent my time,</l>
+                  <l>devoid of godly grace:</l>
+                  <l>A lewder woman never liv'd,</l>
+                  <l>I thinke in any place.</l>
+               </lg>
+               <lg>
+                  <l>Néere <hi>Buckingham</hi> I dwelled,</l>
+                  <l>and <hi>Suſan Higges</hi> by name,</l>
+                  <l>Well thought of by good Gentlemen,</l>
+                  <l>and Farmers of good fame:</l>
+                  <l>Where thus, for twenty yéeres at leaſt,</l>
+                  <l>I liv'd in gallant ſort:</l>
+                  <l>Which made the Countrey marvell much,</l>
+                  <l>to heare of my report.</l>
+               </lg>
+               <lg>
+                  <l>My ſtate was not maintained,</l>
+                  <l>(as you ſhall underſtand)</l>
+                  <l>By good and honeſt dealings,</l>
+                  <l>nor labour of my hand:</l>
+                  <l>But by deceit and coozening ſhifts,</l>
+                  <l>the end whereof, we ſée</l>
+                  <l>Hath ever béene repaid with ſhame,</l>
+                  <l>and ever like to be.</l>
+               </lg>
+               <lg>
+                  <l>My ſervants were yong country girles,</l>
+                  <l>brought up unto my mind,</l>
+                  <l>By nature faire and beautifull,</l>
+                  <l>and of a gentle kinde:</l>
+                  <l>Who with their ſwéet entiſing eyes,</l>
+                  <l>did many Youngſters move</l>
+                  <l>To come by night unto my houſe,</l>
+                  <l>in hope of further love.</l>
+               </lg>
+               <lg>
+                  <l>But ſtill at their cloſe méetings,</l>
+                  <l>(as I the plot had laid)</l>
+                  <l>I ſtept in ſtill at unawares,</l>
+                  <l>while they the wantons plaid,</l>
+                  <l>And would in queſtion bring their names,</l>
+                  <l>except they did agrée</l>
+                  <l>To give me mony for this wrong,</l>
+                  <l>done to my houſe and me.</l>
+               </lg>
+               <lg>
+                  <l>This was but petty coozenage,</l>
+                  <l>to things that I have done:</l>
+                  <l>My weapon by the high-way ſide,</l>
+                  <l>hath me much money won:</l>
+                  <l>In mens attire I oft have rode,</l>
+                  <l>upon a Gelding ſtout,</l>
+                  <l>And done great robberies valiantly,</l>
+                  <l>the Countries round about.</l>
+               </lg>
+               <lg>
+                  <l>I had my Scarfes and Vizords,</l>
+                  <l>my face for to diſguiſe:</l>
+                  <l>Sometimes a beard upon my chin,</l>
+                  <l>to blind the peoples eyes:</l>
+                  <l>My Turky Blade, and Piſtols good,</l>
+                  <l>my courage to maintaine:</l>
+                  <l>Thus tooke I many a Farmers purſe,</l>
+                  <l>well cram'd with golden gaine.</l>
+               </lg>
+               <lg>
+                  <l>Great ſtore of London Merchants,</l>
+                  <l>I boldly have bid ſtand,</l>
+                  <l>And ſhewed my ſelfe moſt bravely,</l>
+                  <l>a Woman of my hand:</l>
+                  <l>You ruffling Royſters every one,</l>
+                  <l>in my defence ſay then,</l>
+                  <l>Wée women ſtill for gallant minds,</l>
+                  <l>may well compare with men.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="425" facs="tcp:183141:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 5 -->
+               <head>The ſecond part,</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>BVt if ſo be it chanced,</l>
+                  <l>the Countries were beſet,</l>
+                  <l>With hue, and cryes, and warrants,</l>
+                  <l>into my houſe I get:</l>
+                  <l>And I ſo being with my Maids,</l>
+                  <l>would cloake the matter ſo,</l>
+                  <l>That no man could by any meanes,</l>
+                  <l>the right offender know.</l>
+               </lg>
+               <lg>
+                  <l>Yet God that ſtill moſt iuſtly,</l>
+                  <l>doth puniſh euery vice,</l>
+                  <l>Did bring unto confuſion</l>
+                  <l>my fortunes in a trice:</l>
+                  <l>For by a murther all my ſinnes</l>
+                  <l>were ſtrangely brought to light,</l>
+                  <l>And ſuch deſert I had by law,</l>
+                  <l>as Iuſtice claim<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d by right.</l>
+               </lg>
+               <lg>
+                  <l>Vpon the Heath of <hi>Miſſeldon,</hi>
+                  </l>
+                  <l>I met a woman there,</l>
+                  <l>And rob'd her, as from Market,</l>
+                  <l>home wards ſhe did repaire,</l>
+                  <l>Which woman cal'd me by my name,</l>
+                  <l>and ſaid that ſhe me knew;</l>
+                  <l>For which even with her lives deare blood,</l>
+                  <l>my hands I did imbrew.</l>
+               </lg>
+               <lg>
+                  <l>But after I had wounded,</l>
+                  <l>this woman unto death,</l>
+                  <l>And that her bleeding body,</l>
+                  <l>was almoſt reft of breath,</l>
+                  <l>She gave a groane, and therewithall,</l>
+                  <l>did ſpit upon my face,</l>
+                  <l>Thrée drops of blood, that never could</l>
+                  <l>he wiped from that place.</l>
+               </lg>
+               <lg>
+                  <l>For after I returned</l>
+                  <l>unto my houſe againe.</l>
+                  <l>The more that I it waſh'd,</l>
+                  <l>it more appeared plaine:</l>
+                  <l>Each houre I thought that beaſts and birds,</l>
+                  <l>this murther would reveale,</l>
+                  <l>Or that the ayre ſo vile a déed,</l>
+                  <l>no longer would conceale.</l>
+               </lg>
+               <lg>
+                  <l>So heavie at my conſcience,</l>
+                  <l>this wofull murther lay,</l>
+                  <l>That I was ſoone enforced,</l>
+                  <l>the ſame for to bewray,</l>
+                  <l>And to my ſervants made it knowne,</l>
+                  <l>as God appointed me:</l>
+                  <l>For blood can never ſecret reſt,</l>
+                  <l>nor long unpuniſht be.</l>
+               </lg>
+               <lg>
+                  <l>My ſervants to the Iuſtices,</l>
+                  <l>declar'd what I had ſaid;</l>
+                  <l>For which I was attached,</l>
+                  <l>and to the Iayle convey'd,</l>
+                  <l>And at the Siſes was condemn'd,</l>
+                  <l>and had my iuſt deſert:</l>
+                  <l>Even ſuch a death let all them have</l>
+                  <l>that beare ſo falſe a heart.</l>
+               </lg>
+               <lg>
+                  <l>So fare well earthly pleaſure,</l>
+                  <l>my quaintance all adue,</l>
+                  <l>With whom I ſpent the treaſure,</l>
+                  <l>which cauſeth me to rue.</l>
+                  <l>Leave off your wanton paſtimes,</l>
+                  <l>laſcivious and ill,</l>
+                  <l>Which without Gods great mercy,</l>
+                  <l>doth ſoule and body kill.</l>
+               </lg>
+               <lg>
+                  <l>Be warned by this ſtory,</l>
+                  <l>you ruffling Royſters all:</l>
+                  <l>The higher that you climbe in ſinne,</l>
+                  <l>the greater is your fall:</l>
+                  <l>And ſince the world ſo wicked is,</l>
+                  <l>let all deſire grace,</l>
+                  <l>Grant Lord that I the laſt may be,</l>
+                  <l>that runneth ſuch a race.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>F. C.</hi> dwelling in the Old-Baily.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
